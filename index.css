@@ -65,3 +65,7 @@ height: 39px; width: 280px;
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 border-style: none;
 }
+a{
+    text-decoration: none;
+    color: white;
+}
